@@ -13,7 +13,7 @@
 
 -   📍  From RJ living in Nikity City
 -   💻  CEO at  [Sunrise TI Company](https://sunriseticompany.wordpress.com/)
--   🌈  Sharing a little of Sunrise TI Company projects at [(Sunrise TI Company](https://www.youtube.com/channel/UCkcuKs-RNcZmZb0uncA5r3A)
+-   🌈  Sharing a little of Sunrise TI Company projects at [Sunrise TI Company](https://www.youtube.com/channel/UCkcuKs-RNcZmZb0uncA5r3A)
 
 
 - Reach me out 👇🏼
