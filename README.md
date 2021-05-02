@@ -21,5 +21,5 @@
 
 ## Last Project 
 <p align="center">
-  <img width="460" height="300" src="src/assets/to_readme/ezgif.com-gif-maker.gif">
+  <img width="460" height="300" src="to_readme/ezgif.com-gif-maker.gif">
 </p>
