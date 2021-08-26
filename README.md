@@ -9,7 +9,7 @@
  在2019我开始学习**Python**。自2019我在学习 **C/C++**, **HTML**, **CSS** 和 **Javascript**.
  
 
-### 🌍  "Comovo-me em excesso, por natureza e por ofício. Acho medonho alguém viver sem paixõe"  🧠
+### 🌍  "Comovo-me em excesso, por natureza e por ofício. Acho medonho alguém viver sem paixões"  🧠
 
 -   📍  From RJ living in Nikity City
 -   💻  CEO at  [Sunrise TI Company](https://sunriseticompany.wordpress.com/)
