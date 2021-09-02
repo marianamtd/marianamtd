@@ -9,9 +9,9 @@
  在2019我开始学习**Python**。自2019我在学习 **C/C++**, **HTML**, **CSS** 和 **Java**.
  
  <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/marianamtd">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianamtd&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamtd&layout=compact&langs_count=7&theme=midnight-jolly"/>
 </div>
 
 ### 🌍  "Comovo-me em excesso, por natureza e por ofício. Acho medonho alguém viver sem paixões"  🧠
