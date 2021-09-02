@@ -11,8 +11,11 @@
  <div>
   <a href="https://github.com/marianamtd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianamtd&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamtd&layout=compact&langs_count=7&theme=midnight-jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianamtd&layout=compact&langs_count=7&theme=jolly"/>
 </div>
+ 
+ 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ### 🌍  "Comovo-me em excesso, por natureza e por ofício. Acho medonho alguém viver sem paixões"  🧠
 
