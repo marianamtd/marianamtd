@@ -8,6 +8,11 @@
  我叫 Mariana Mendonça, 我的中文名字是孟云帆。我是大学的信息系统学生在UNIRIO。我真爱信息技术和网页设计。
  在2019我开始学习**Python**。自2019我在学习 **C/C++**, **HTML**, **CSS** 和 **Java**.
  
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### 🌍  "Comovo-me em excesso, por natureza e por ofício. Acho medonho alguém viver sem paixões"  🧠
 
