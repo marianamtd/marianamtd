@@ -15,7 +15,7 @@
 </div>
  
  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/marianamtd/marianamtd/blob/output/github-contribution-grid-snake.svg)
 
 ### 🌍  "Comovo-me em excesso, por natureza e por ofício. Acho medonho alguém viver sem paixões"  🧠
 
