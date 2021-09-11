@@ -1,4 +1,4 @@
-## Hello, there! 
+## Hello, there! 👋
 
  I'm Mariana Mendonça 🇧🇷 and I'm an Information System student at UNIRIO. 
  I'm super passionate about technology and design. 
