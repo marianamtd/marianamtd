@@ -2,7 +2,7 @@
 
  I'm Mariana Mendonça 🇧🇷 and I'm an Information System student at UNIRIO. 
  I'm super passionate about technology and design. 
- Started learning **Python** in 2019. Since then, I've been improving my knowledge and now I've learned **C/C++**, **HTML**, **CSS** and **Java**.
+ Started learning **Python** in 2019. Since then, I've been improving my knowledge and now I've learned **C/C++**, **HTML**, **CSS** and **Java**
  
 ## 你好，我的朋友! 👋
  我叫 Mariana Mendonça, 我的中文名字是孟云帆。我是大学的信息系统学生在UNIRIO。我真爱信息技术和网页设计。
